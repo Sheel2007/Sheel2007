@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sheel2007
-- 👀 I’m interested in python artificial intelligence and machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in artificial intelligence and machine learning in python.
+- 🌱 I’m currently learning unsupervised machine learning
+- 💞️ I’m looking to collaborate on a machine learning website for cancer detection, would love to find someone for web design.
 - 📫 How to reach me ...
 
 <!---
