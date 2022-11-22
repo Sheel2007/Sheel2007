@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheel2007
 - 👀 I’m interested in artificial intelligence and machine learning in python.
-- 🌱 I’m currently making a Covid-19 symptom clustering model.
+- 🌱 I’m currently making a videos on YouTube: https://youtube.com/@Angry_Olive
 - 💞️ I’m looking to collaborate on selling a machine learning model.
 - 📫 How to reach me sheel_arsenal@icloud.com
 
