@@ -12,7 +12,7 @@ Aspiring programmer, inventor, researcher, and content creator.
 
 I have programmed websites and artificial intelligence softwares. I have extensive experience working frameworks, tools, and languages.
  
-- 🎨  [Pathfinding A.I.](https://github.com/Sheel2007/Dijkstra-Implementationr): Utilized Dijkstra's Pathfinding Algorithm to create a visualization program that sucessfully traverse a maze from start to finish.
+- 🎨  [Pathfinding A.I.](https://github.com/Sheel2007/Dijkstra-Implementation): Utilized Dijkstra's Pathfinding Algorithm to create a visualization program that sucessfully traverse a maze from start to finish.
 - ⌚️ [Tic-Tac-Toe A.I.](https://github.com/Sheel2007/AI-TicTacToe): Developed an A.I. program that plays Tic-Tac-Toe using Monte-Carlo Tree Search algorithm for a master's course at Carnegie Mellon University: Heinz College.
 
 </details>
