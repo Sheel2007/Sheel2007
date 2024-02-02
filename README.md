@@ -43,7 +43,9 @@ I am interested in many things spanning the realms of science, technology, and e
 <details>
  
 <summary><b><u>Stats 📊</u></b></summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=Sheel2007&show_icons=true&theme=tokyonight)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheel2007&layout=pie&theme=tokyonight)
 </details>
 
