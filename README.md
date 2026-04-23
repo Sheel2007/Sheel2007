@@ -1,58 +1,37 @@
 ## Sheel Shah
 
-Aspiring programmer, inventor, researcher, and content creator.
+Computer science student focused on AI and building real-world systems
 
- [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://sheel2007.github.io)
- [![YouTube](https://img.shields.io/badge/YouTube-db070e?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Angry_Olive)
- [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sheelshah030@gmail.com)
-
-<details>
- 
-<summary><b><u>Software Developer 💻</u></b></summary>
-
-I have programmed websites and artificial intelligence softwares. I have extensive experience working frameworks, tools, and languages.
- 
-- 🎨  [Pathfinding A.I.](https://github.com/Sheel2007/Dijkstra-Implementation): Utilized Dijkstra's Pathfinding Algorithm to create a visualization program that sucessfully traverse a maze from start to finish.
-- ⌚️ [Tic-Tac-Toe A.I.](https://github.com/Sheel2007/AI-TicTacToe): Developed an A.I. program that plays Tic-Tac-Toe using Monte-Carlo Tree Search algorithm for a master's course at Carnegie Mellon University: Heinz College.
-
-</details>
+ [![Website](https://img.shields.io/badge/Website-55555?style=for-the-badge)](https://sheel2007.github.io)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheelshah2007)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheel_startup/)
 
 <details>
  
-<summary><b><u>Scientific Researcher & Content Creator ⚡️</u></b></summary>
+<summary><b><u>Software Developer 💻</u></b></summary><br>
+ 
+- 🎨  [Maze Solver](https://github.com/Sheel2007/Dijkstra-Implementation): Utilized Dijkstra's Pathfinding Algorithm to create a visualization program that sucessfully traverse a maze from start to finish.
 
-I have collaborated on a research article on Computer Vision Photogrammetry. I also make programming content on YouTube.
+- ⌚️ [Tic-Tac-Toe Algorithm](https://github.com/Sheel2007/AI-TicTacToe): Developed an A.I. program that plays Tic-Tac-Toe using Monte-Carlo Tree Search algorithm for a master's course at Carnegie Mellon University: Heinz College.
 
-- 📝  Contributor to [Doctoral Thesis](https://doi.org/10.1111/mms.13083)
-- 🎥  Content Creator on [YouTube](https://www.youtube.com/@Angry_Olive)
-
-</details>
+</details><br>
 
 <details>
  
-<summary><b><u>Currently Learning ⚡️</u></b></summary>
+<summary><b><u>Scientific Researcher & Content Creator ⚡️</u></b></summary><br>
 
-I am interested in many things spanning the realms of science, technology, and engineering.
+- Contributor to [Doctoral Thesis](https://doi.org/10.1111/mms.13083)
 
-- Artificial Intelligence and Predictive Algorithms
-- Digital Electronics
-- Web Development
+- Content Creator on [Instagram](https://www.instagram.com/sheel_startup/)
 
-</details>
+</details><br>
 
 <details>
  
-<summary><b><u>Stats 📊</u></b></summary>
+<summary><b><u>Currently Learning ⚡️</u></b></summary><br>
 
-![](https://github-readme-stats.vercel.app/api?username=Sheel2007&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheel2007&layout=pie&theme=tokyonight)
-</details>
-
-<details>
- 
-<summary><b><u>Contact Me🚀</u></b></summary>
-
-[sheelshah030@gmail.com](mailto:sheelshah030@gmail.com)
+- Artificial Intelligence
+- Discrete Structures
+- Quantum Computing
 
 </details>
