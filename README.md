@@ -58,10 +58,10 @@ Simulates the full 2026 World Cup, group stage to final. Trained on **8,000+ int
 
 | | |
 |---|---|
-| **[AI Tic-Tac-Toe](https://github.com/Sheel2007/AI-TicTacToe)** | Monte Carlo Tree Search agent, built for a master's course at Carnegie Mellon (Heinz College) |
-| **[Dijkstra Maze Solver](https://github.com/Sheel2007/Dijkstra-Implementation)** | Shortest-path visualizer that solves a maze from start to finish |
-| **[Ping-Pong Launcher](https://github.com/Sheel2007/PingPong-Launcher)** | Hardware and Python control software for an automated ball-launching system |
 | **[Published research](https://doi.org/10.1111/mms.13083)** | Contributor to a doctoral thesis, published in *Marine Mammal Science* |
+| **[AI Tic-Tac-Toe](https://github.com/Sheel2007/AI-TicTacToe)** | Monte Carlo Tree Search agent, built for a master's course at Carnegie Mellon (Heinz College) |
+| **[Aegis Orbit](https://github.com/KingXaney/Aegis-Orbit-)** | Hackathon team project: satellite collision-avoidance simulator. An XGBoost ranker scans an 18,598-object orbital catalog, physics screening confirms the threats, and an AI agent plans and explains avoidance burns on a 3D CesiumJS globe |
+| **[Ping-Pong Launcher](https://github.com/Sheel2007/PingPong-Launcher)** | Hardware and Python control software for an automated ball-launching system |
 
 ---
 
@@ -73,7 +73,3 @@ Simulates the full 2026 World Cup, group stage to final. Trained on **8,000+ int
 | **ML & Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB6E2D?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white) |
 | **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Hardware & Systems** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![I²C / GPIO](https://img.shields.io/badge/I%C2%B2C%20%2F%20GPIO-3d444d?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
-
-<p align="center"><sub>Currently exploring applied ML, autonomous systems and discrete structures.</sub></p>
